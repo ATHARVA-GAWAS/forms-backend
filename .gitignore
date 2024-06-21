@@ -1,0 +1,89 @@
+# Node.js
+/node_modules/
+/forms-backend/node_modules/
+/forms-backend/dist/
+/forms-backend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# TypeScript
+*.tsbuildinfo
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+/bin/
+/obj/
+/FormsFrontend/bin/
+/FormsFrontend/obj/
+
+# Visual Studio Code
+.vscode/*
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Miscellaneous
+*.swp
+*~
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+*.class
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+*.backup
+*.log
+*.stackdump
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+Session.vim
+.nfs*
+
+# Frontend binaries and cache
+FormsFrontend/FormsFrontend/bin/
+FormsFrontend/FormsFrontend/obj/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
